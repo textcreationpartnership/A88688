@@ -1,0 +1,518 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Major Generall Laughorn's letter to the Honourable William Lenthall Esq; Speaker of the Honorable House of Commons. VVherein is truly related the taking of Carmarthen town and castle, and the reducing of that county to obedience of Parliament. Together with the severall articles, declarations and agreements between the major and gentry of that county. Ordered by the Commons assembled in Parliament, that this letter, articles, directions, and agreements, be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Laugharne, Rowland, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88688</idno>
+            <idno type="STC">Wing L402</idno>
+            <idno type="STC">Thomason E307_15</idno>
+            <idno type="STC">ESTC R200345</idno>
+            <idno type="EEBO-CITATION">99861148</idno>
+            <idno type="PROQUEST">99861148</idno>
+            <idno type="VID">158813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158813)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E307[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Major Generall Laughorn's letter to the Honourable William Lenthall Esq; Speaker of the Honorable House of Commons. VVherein is truly related the taking of Carmarthen town and castle, and the reducing of that county to obedience of Parliament. Together with the severall articles, declarations and agreements between the major and gentry of that county. Ordered by the Commons assembled in Parliament, that this letter, articles, directions, and agreements, be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Laugharne, Rowland, d. 1676.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Octob. 28. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Carmarthen (Wales) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158813:1" rendition="simple:additions"/>
+            <p>Major Generall <hi>Laughorn's</hi> LETTER TO THE Honourable <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker of the Honorable Houſe of Commons.</p>
+            <p>VVherein is truly related the taking of <hi>Carmarthen</hi> Town and Caſtle, and the Reducing of that County to obedience of Parliament.</p>
+            <p>Together with the ſeverall <hi>Articles, Declarations</hi> and <hi>Agreements</hi> BETWEEN The Major and Gentry of that County.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That this <hi>Letter, Articles, Directions,</hi> and <hi>Agreements,</hi> be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON: Printed for <hi>Edward Husband,</hi> Printer to the Hono<g ref="char:EOLhyphen"/>rable Houſe of Commons, <hi>Octob.</hi> 28. 1645.</p>
+            <pb facs="tcp:158813:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:158813:3"/>
+            <pb facs="tcp:158813:3"/>
+            <head>To the Honorable <hi>William Lenthall</hi> Eſquire, Speaker to the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>ce the taking of <hi>Picton</hi> Caſtle, and freeing the whole County of <hi>Pembroke</hi> from the power of the Enemy: The firſt action worthy your knowledge, God vouchſafed I ſhould effect, was the taking of <hi>Carmarthen</hi> Town and Caſtle; it was performed this day; at nine of the clock in the morning, Fifteen hundred Clubmen of the Coun<g ref="char:EOLhyphen"/>ty marched out at one Gate, and I entred at the other, the ſtrength of the Club-men in all the adjacent Counties ſince their laſt Aſſociation; my endeavouring for Recruit in the beſt meaſure I could, and the unſetledneſſe of the Commiſſioners of Array, and other of the Gentry of <hi>Carmarthenſhire,</hi> in their Treaty for Peace with us loſt me ſome time, might have been more uſefull in Action: Their ſolicitations received birth before the taking of <hi>Carew</hi> Caſtle; but after their loſſe of <hi>Picton</hi> I diſcer<g ref="char:EOLhyphen"/>ned more frequency and importunity in the proſecution: It were imperti<g ref="char:EOLhyphen"/>nent to rehearſe all particular paſſages, the Copies of the Letters and conditions between us, with my Declaration ſent herewith (obſerving the order of them) will manifeſt the effect of what I would ſignifie: their firſt Letter to me and the Committee, they ſent to receive the Kings approbation before they conveyed it to us, and all they did paſſed (though privatly) by allowance of Major Generall <hi>Stradling,</hi> and <hi>Lovelace</hi> Governour of <hi>Car<g ref="char:EOLhyphen"/>marthen,</hi> that breeds my doubt they have yet rotten coares, and I ſhall try before I overmuch truſt them: On <hi>Friday</hi> the Commiſſioners drew Fifteen hundred Clubmen into Town, and with the Townſmen undertook the defence, diſmiſſing the Governour and his Souldiers: Our Forces ly<g ref="char:EOLhyphen"/>ing then at Saint <hi>Cleers,</hi> ſix miles ſhort of <hi>Carmarthen,</hi> ſtaying for ſome Carriages that were not come up; the next day we appeared in ſeverall bodies, Six hundred Horſe and Dragoons and Two thouſand Foot before the Town, and ſpent the evening in interchange of Parlyes, at eleven at night we concluded, and this morning put it in execution, ſome of the ma<g ref="char:EOLhyphen"/>nifeſtly criminous deſerted the Town, and fled with the Enemy, ſome Troopers and Captains daily fall in to us, and the Club-men in <hi>Cardigan<g ref="char:EOLhyphen"/>ſhire</hi> reſift the Enemy, detain their Contributions, and (in compliance with Colonell <hi>Lewes,</hi> who neglecteth no means to win them) as I here de<g ref="char:EOLhyphen"/>clare for King and Parliament. Our Horſe ſhall advance to morrow to
+<pb facs="tcp:158813:4"/>aſſiſt them, and in few dayes, I hope to give a very good accompt of be two Counties: <hi>Glamorganſhire</hi> Gentlemen I deſired (and I heard were ready) to appear upon the borders, to wait my actions againſt <hi>Carmar<g ref="char:EOLhyphen"/>then,</hi> if the ſurrender had not prevented them: The Town very ſpacious, but ſtrongly Fortified, requiring no leſſe then a thouſand men in Garriſon: If we could give pay we ſhould not want men, and thoſe we have with little encouragement, would deem no enterprize too hard: If it would pleaſe the State to afford ſome ſupply for money and clothing, I doubt not they ſhould ſpeedily reap the fruit of them. I reſtrain Plunder, and uſe the Country withall lenity; I ſhall not, I hope, repent it, or forget that I am, Sir</p>
+            <closer>
+               <dateline>
+                  <hi>Carmarthen</hi> 
+                  <date>12. <hi>Octob.</hi> 1645.</date>
+               </dateline>
+               <signed>Your moſt humble Servant, <hi>ROVVLAND LAUGHORNE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of a <hi>Letter</hi> from the Commiſſioners, and Gentry of the County of <hi>Carmarthen,</hi> to the Generall and Committee in <hi>Pembrokeſhire.</hi>
+            </head>
+            <p>GEntlemen, We taking into conſideration the unhappy effects that War (being continued) may produce between the county of <hi>Pembroke,</hi> and theſe neighbouring counties of <hi>Carmarthen</hi> and <hi>Cardigan</hi> and others; the unity whereof is requiſite under many Relations, to the preſervation of which you and we equally pretend, namely our Religion, Loyalty, and Laws, though we have been hitherto ſo unhappy, as to endeavour the pre<g ref="char:EOLhyphen"/>ſerving of theſe by deſtroying one another.</p>
+            <p>To prevent therefore the continuance of theſe miſeries we have for<g ref="char:EOLhyphen"/>merly felt, and the fears of worſe that may enſue (if poſſibly it may be) and that we may move towards theſe ends, we ſeverally profeſſe to be the ſame, with better aſſurance of obtaining them, and more piety towards our ſelves; We conceive (that if your concurrence be had therein) that a Treaty between a certain number Commiſſioned out of theſe two Counties and yours, may produce a better effect to every of us, then the Hoſtility between us hath hitherto done, or (if continued) is like to do.</p>
+            <p>In order to this (if you approve thereof) you may name your number of perſons, with the time and place where to give meeting, ſending like<g ref="char:EOLhyphen"/>wiſe your ſafe conduct for the proportionable number Commiſſioned out of theſe Counties, and the like ſhall be ſent to you from this: Thus deſiring your ſpeedy Anſwer, we remain</p>
+            <closer>
+               <date>
+                  <hi>Septemb.</hi> 5. 1645.</date>
+               <signed>Your Servants,
+<list>
+                     <item>
+                        <hi>Ed: Vauhgan.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Rowland Gwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Birt.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Lloyde.</hi>
+                     </item>
+                     <item>
+                        <hi>John Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>George Gwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>John Harr.</hi>
+                     </item>
+                     <item>
+                        <hi>Carbery.</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Rudde.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Middleton.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Lewes.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lloyde.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:158813:4"/>
+            <head>The Copy of the Anſwer from the Major Generall <hi>Laughorne</hi> and the Com<g ref="char:EOLhyphen"/>mittee to the Commiſſioners and Gentry of the ſeverall Counties of <hi>Car<g ref="char:EOLhyphen"/>marthen</hi> and <hi>Cardigan.</hi>
+            </head>
+            <p>GEntlemen, Your Letter of the 5. of <hi>Sept.</hi> we received this 25. of the ſame, if your deſires be anſwerable to your expreſſions for Peace, we ſhall upon what termes may be warrantable admit a Treaty, conditioned you make full Declaration of your obedience to the Authority of King and Parliament, and teſtifie your reſolution therein, by preſent ſeizing, deli<g ref="char:EOLhyphen"/>vering to us, or deteining in your own power thoſe ſcattered Horſe of the Enemy yet in your Countrey, with theſe limitations, we hereby engage for the ſafety of any four gentlemen among you, (ſo they conſiſt not of any Mem<g ref="char:EOLhyphen"/>bers that deſerted the Parliament) to repair to this Town within the next three daies, &amp; to return with their neceſſary Attendants, &amp; we ſhal be ready, upon your compliance, to protect the Common people, &amp; ſuch of the Gentry as we ſhall finde Capable of protection, and refer the exempted to ſupe<g ref="char:EOLhyphen"/>riour Iudicatures, In the interim, in ſuſpence of our expectation; we are</p>
+            <closer>
+               <dateline>
+                  <hi>Haverfordweſt,</hi> 
+                  <date>25. <hi>Sept.</hi> 1645.</date>
+               </dateline>
+               <signed>Your Servants
+<list>
+                     <item>
+                        <hi>Rowland Laughorne,</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Bowen,</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Barlowe,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Lort,</hi>
+                     </item>
+                     <item>
+                        <hi>Sampſon Lorr.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Iones.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copie of a Letter from the Commiſſioners of <hi>Carmarthenſhire,</hi> to Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Laughorne,</hi> and the Committee.</head>
+            <p>GEntlemen, expecting this day to have underſtood the full ſence of the Inhabitants of this County, that thereby we might have been Armed with power to have treated as was in your Letter mentioned; you may underſtand the Countr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y met not (as we expected) therefore we con<g ref="char:EOLhyphen"/>ceive our ſelves not in condition to ſend unto you according to our under<g ref="char:EOLhyphen"/>takings: This we thought fit to write unto you who are</p>
+            <closer>
+               <date>
+                  <hi>October</hi> 2. 1645.</date>
+               <signed>Your humble Servants,
+<list>
+                     <item>
+                        <hi>Rice Rudde.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed: Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Middleton.</hi>
+                     </item>
+                     <item>
+                        <hi>George Gwynne.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>SIr, we heare you are advanced into this County, which makes us ſend this bearer to receive your command which ſhall be performed by us, who profeſſe and declare our ſelves to be for the King and Parliament, and will with the beſt aſſiſtance we can, aid you with our lives and for<g ref="char:EOLhyphen"/>tunes, in any thing that may conduce to the Parliaments ſervice,</p>
+            <closer>
+               <dateline>
+                  <hi>Llangendyſcen,</hi> 
+                  <date>Octob. 10. 1645.</date>
+               </dateline>
+               <signed>Sir, we are your humble Servants,
+<list>
+                     <item>
+                        <hi>Edward Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Middleton.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Vaughan.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>For our Honoured friend Major Gen: <hi>Laughorn</hi> theſe.</trailer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:158813:5"/>
+            <p>GEntlemen, in Anſwer to your Letter, I reſt ſatisfied of your good inten<g ref="char:EOLhyphen"/>tions, And for the better and ſooner expediting the ſervice intended, I wiſh two of you would give me the meeting at St. <hi>Cleers</hi> this night, where I am advanced with my whole Army, and ſhall be ready upon warrantable grounds, to doe you ſervice,</p>
+            <closer>
+               <dateline>St. <hi>Cleeres</hi> 
+                  <date>
+                     <hi>October</hi> 10. 1645.</date>
+               </dateline>
+               <signed>I am Gentlemen your ſervant, <hi>Rowland Laughorne.</hi>
+               </signed>
+            </closer>
+            <trailer>For his worthy friends, <hi>Edward Vaughan</hi> Knight, <hi>Iohn Vaughan, Henry Middleton,</hi> and <hi>Iohn Vaughan,</hi> 
+               <abbr>Eſq</abbr> theſe.</trailer>
+         </div>
+         <div type="letter">
+            <head>A Declaration to the Commiſſioners, Gentrie, and Inhabitants of <hi>Carmar<g ref="char:EOLhyphen"/>thenſhire,</hi> ſet forth by Major Generall Laughorne, at St. <hi>Cleeres</hi> the <hi>10.</hi> day of October, <hi>1645.</hi>
+            </head>
+            <p>GEntlemen, although your credulity (to the greateſt Inſtruments of your Ruine,) heretofore (to your deare experience) poſſeſſed you with an opinion, the King and Parliaments forces deſigned nothing leſſe, then reducing you to obedience and ſettlement of your Peace, and I (with compunction) confeſſe at my laſt advance into theſe parts of your Coun<g ref="char:EOLhyphen"/>ty, the licentiouſneſſe of my unpaid Souldiers, might adde ſome ſet<g ref="char:EOLhyphen"/>lednes to that injurious conceit; I praiſe God and the Parliaments pro<g ref="char:EOLhyphen"/>vidence, my men upon the preſent advance, reſt well ſatisfied with the pay they received, and are become liable to Diſcipline, of that I ſhall not forbeare the ſtricteſt execution upon apparant offenders.</p>
+            <p>My earneſt wiſhes are, you will now at length be undeceived, and pretend not reſcue of your Eſtates, to colour obſtinate reſiſtance of the Authority whereto you owe all you call yours, but make preſent ſubmiſſion to the power of King and Parliament, and joyne (againſt the common Enemy) with the Forces by their Commiſſion under my conduct, whoſe principall endeavour it is, to aſſert your Religion, your Laws, your Liberties.</p>
+            <p>You ſo doing, in exchange of your imaginary feares, I tender my Re<g ref="char:EOLhyphen"/>putation in the preſence of Heaven and Earth (for gaining your confi<g ref="char:EOLhyphen"/>dence,) I will not dread to engage my life with my power and fortunes, in protection of your perſons and Eſtates, as well againſt thoſe of mine owne Command, as the notorious adverſaries of our Religion, Liberties, Peace, and Proſperitie,</p>
+            <closer>
+               <signed>Rowland Laughorne.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>SIr, we received your Letter, and reſt your ſervants for the affection you expreſſe: Our late comming into Towne, prevents our waiting on you this night, we are 1500. men in Town, which are reſolved for King and Parliament, to morrow four of us will not fail to wait on you, we deſire you
+<pb facs="tcp:158813:5"/>not to march till then. The Caſtle we have not as yet, but it is promiſed us to morrow; which with the hazard of our lives, we will defend and keep for the Parliament ſervice; Your Declaration ſhalbe publiſhed to the people, and if they declare not as we do, their forced obedience ſhall make them rue their obſtinacie: The particulars of our proceedings we re<g ref="char:EOLhyphen"/>ferre to this bearers Relation, and Reſt</p>
+            <closer>
+               <dateline>
+                  <hi>Carmarthen,</hi> 
+                  <date>10 Octobr. 1645.</date>
+               </dateline>
+               <signed>Your Servants,
+<list>
+                     <item>
+                        <hi>Edward Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>John Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>John Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Gwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Midleton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>For our honoured Friend, Major Gen. <hi>Laughorne.</hi>
+            </trailer>
+         </div>
+         <div type="agreement">
+            <p>IT is agreed by the Town and County of <hi>Carmarthen,</hi> and Major Gen. <hi>Laughorne,</hi> That the workes and all fortification about the Towne and Caſtle, be utterly demoliſhed, and all other Garriſons within the ſaid County.</p>
+            <p>It is likewiſe agreed, that no free quarter be impoſed upon the Inhabi<g ref="char:EOLhyphen"/>tants of the ſaid Towne and County, except one night upon a march, And that the Army may not march through the Towne.</p>
+            <p>It is deſired and agreed, that all other matters and buſineſſe of conſe<g ref="char:EOLhyphen"/>quence, may be referred to King and Parliament at Weſtminſter, And that all the Ammunition and Arms, within the ſaid Towne and County, may be left for their own defence and ſafety.</p>
+            <p>It is likewiſe agreed, that the Army march out of this County, within the ſpace of two dayes and two nights, next enſuing.</p>
+            <p>Theſe Articles being granted, the whole Inhabitants of the Towne and County, do declare themſelves for King and Parliament.</p>
+            <p>It is agreed, that no preſt men be required from the ſaid Towne and County, untill there be a generall preſſe within all the Aſſociated Coun<g ref="char:EOLhyphen"/>ties adjacent.</p>
+            <p>It is alſo agreed, that the Covenant be not preſt on the Inhabitants of neither Towne nor County.</p>
+            <closer>
+               <dateline>
+                  <hi>This was brought without ſubſcriptions, and delivered Saturday evening,</hi> 
+                  <date>11 Octob.</date>
+               </dateline>
+               <signed>By
+<list>
+                     <item>Sir <hi>Edward Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Vanghan of Llanelly.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Williams.</hi>
+                     </item>
+                  </list>
+And
+<list>
+                     <item>
+                        <hi>Robert Toy,</hi>
+                     </item>
+                     <item>And <hi>George Joanes</hi>
+                     </item>
+                  </list>
+Of the Towne.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>In Anſwer to the ſix particulars, deſired of me by the Towne and County of <hi>Carmarthen,</hi> to obtaine their Declaration for King and Parliament.</head>
+            <p>FOr the firſt, I ſhould agree to the demoliſhing of all the Garriſons in the County, ſo there might be other means for ſecuring the Countrey
+<pb facs="tcp:158813:6"/>and places of retreat upon neceſſary occaſions aſcertained.</p>
+            <p>To the ſecond, Souldiers cannot be maintained without free quarter, or Contributions for pay, and without men the Countrey cannot be defended.</p>
+            <p>To the third, by the rearm (King) it is not evident, whether the Kings per<g ref="char:EOLhyphen"/>ſonall reſidence at Weſtminſter be intended, and other matters of conſe<g ref="char:EOLhyphen"/>quence muſt be all the difference, for here nothing of moment is offered, and by circuit, we are where we begun.</p>
+            <p>To the fourth, the marching of the Army out of the County, and no other power ſet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, for its preſervation is inconſiſtent with my truſt.</p>
+            <p>To the fifth, the ſpeciall emergent occaſions may require preſt men here, when other places may be void of danger, and not poſitively to be granted.</p>
+            <p>To the ſixth, A profeſſion againſt the Covenant or willing declining of it, is an open profeſſion of enmity to King and Parliament, and the deſire of exemption manifeſteth the Treaty on that part to be illuſory, and ſuper<g ref="char:EOLhyphen"/>ficiall.</p>
+            <p>
+               <hi>If upon my Declaration the Gates be opened, and the Towne de<g ref="char:EOLhyphen"/>livered,</hi> I <hi>ſhall make good what</hi> I <hi>have undertaken; otherwiſe</hi> I <hi>ſhall leave the wealth of it, to the diſpoſe of the Souldier, and not make contracts for the price of their blood.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <p>VVEE whoſe names are ſubſcribed, in the name of our ſelves, and all the Inhabitants of this Towne and County, do abſolutely declare for King and Parliament, and will with our lives and fortunes, aſ<g ref="char:EOLhyphen"/>ſiſt the forces raiſed by the Parliament againſt any other whatſoever as ſhall ſeek to invade theſe Countries, and do deſire to be received into King and Parliaments protection, according to the Declaration of Major Gen. <hi>Laughorne,</hi> and for Contribution we willingly ſubmit proportionably to out Neighbouring Counties, 11 <hi>October,</hi> 1645.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Tho. Griffith</hi> Mayor,</item>
+                     <item>
+                        <hi>David Bevan.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Lewes.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Woodford.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Ioy.</hi> vic. Com</item>
+                     <item>
+                        <hi>Iohn David.</hi> vic. Com.</item>
+                     <item>
+                        <hi>Iohn David.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Brand.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Griffith.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Thomas.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Iones.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Hughes.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Chapman.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Vaughan</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Midleton.</hi>
+                     </item>
+                     <item>
+                        <hi>George Gwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Harrys.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Williams.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Howell.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Hughes.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Howell.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Auberry.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Morgan.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Gwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Lloyd.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Vaughan.</hi>
+                     </item>
+                     <item>
+                        <hi>William Lloyd.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Newskay.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
